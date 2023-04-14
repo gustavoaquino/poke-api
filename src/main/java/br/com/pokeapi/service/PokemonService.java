@@ -8,12 +8,11 @@ import java.util.List;
 
 
 /**
- * Service responsável em isolar o controller da chamada da API.
+ * Service responsible for isolating the controller from the API call.
  *
  * @author Gustavo Aquino
  * @since 26/09/2020
- *
- * */
+ */
 
 
 @Service
