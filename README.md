@@ -1,4 +1,4 @@
-<h2> PokeApi Study - Created in 2020  </h2>
+<h2> POKE API STUDY - CREATED IN 2020 </h2>
 
 
 <h3>  Project that consumes PokeApi using Jsoup dependency</h3>
