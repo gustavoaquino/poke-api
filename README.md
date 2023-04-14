@@ -1,12 +1,24 @@
-<h2> POKE API STUDY - CREATED IN 2020 </h2>
+### POKE API STUDY | CREATED IN 2020 
 
+<hr />
 
-<h3>  Project that consumes PokeApi using Jsoup dependency</h3>
+<b>  Project that consumes PokeApi using Jsoup dependency </b>
+<br />
 <b><a target="_blank" href="https://pokeapi.co/"> Access API base </a> 
 
-<b> Features: </b>
+<hr />
+
+### Features 
+
 <li> Show all the first generation pokemon starters ✅ </li> 
 <li> Show all the first generation pokemon ✅ </li> 
+
+### What's in this project? 
+
+ - Spring Boot
+ - Thymeleaf
+ - Jsoup
+ - MVC Architeture
 
 <h3> Project: </h3>
 
